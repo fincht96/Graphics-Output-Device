@@ -14,7 +14,7 @@ The creation of a microprocessor (such as ARM, AVR, PIC, etc.)  controlled devic
 
 **Project Deliverables:** 
 
-The project can be broken down into the following key deliverables, where each key deliverable consists of sub-deliverables: 
+The project can be broken down into the following key deliverables: 
 - Digital storage medium interface 
 - Display device interface 
 - User interface   
@@ -22,7 +22,7 @@ The project can be broken down into the following key deliverables, where each k
 - System management controller
 
 
-Together the deliverables meet the overall system implementation. Further detail into these deliverables can be found below.
+Further detail into these deliverables can be found below:
 
 *Digital storage medium interface:*
 
