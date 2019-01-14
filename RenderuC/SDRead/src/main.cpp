@@ -43,29 +43,19 @@ int main(void)
 	uint8_t buffer[256];
 	uint8_t text_buffer[BUFFER_SIZE];		// used exclusively for text mode
 	
-		DeviceInterface dev;
+	DeviceInterface dev;
 
-		FATFS file_system;
+	FATFS file_system;
 		
 		
-		uint8_t port_state_B = 0;
-		uint8_t port_state_C = 0;
-		UserInput o_user_input(&dev);
-		Communication o_communication(&dev);
-		VideoMemory o_video_memory(&dev, &o_communication);
-		TextMode o_text(&text_buffer[0], &o_video_memory);
-		PetitFsInterface o_petit_fs(&file_system);
-		DataRead o_data_read(&o_petit_fs);
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	uint8_t port_state_B = 0;
+	uint8_t port_state_C = 0;
+	UserInput o_user_input(&dev);
+	Communication o_communication(&dev);
+	VideoMemory o_video_memory(&dev, &o_communication);
+	TextMode o_text(&text_buffer[0], &o_video_memory);
+	PetitFsInterface o_petit_fs(&file_system);
+	DataRead o_data_read(&o_petit_fs);
 	
 	
 	
