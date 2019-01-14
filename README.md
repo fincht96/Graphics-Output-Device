@@ -4,6 +4,9 @@
 
 The creation of a microprocessor (such as ARM, AVR, PIC, etc.)  controlled device capable of reading image files from a connected digital storage medium (such as SD card, Micro-SD card, Compact flash card, etc.) commonly implemented in digital cameras. The device should also allow, through a graphical user interface, the user to select and output specific image files to a monitor via a display interface (such as VGA, HDMI, Composite Video, etc). 
 
+<a href="https://ibb.co/3MTGvPb"><img src="https://i.ibb.co/3MTGvPb/apollo11.jpg" alt="apollo11" border="0"></a> <a href="https://ibb.co/JsjgDnq"><img src="https://i.ibb.co/JsjgDnq/IMG-1063.jpg" alt="IMG-1063" border="0"></a> <a href="https://ibb.co/QpFj5RF"><img src="https://i.ibb.co/QpFj5RF/IMG-1253.jpg" alt="IMG-1253" border="0"></a>
+
+
 **Project Objectives:** 
 
 - The device will be capable of reading image files from a digital storage medium commonly implemented in digital cameras. 
