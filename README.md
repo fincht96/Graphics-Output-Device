@@ -12,7 +12,7 @@ The creation of a microprocessor (such as ARM, AVR, PIC, etc.)  controlled devic
 - The device will be portable and will not require an external power supply for operation.  
 
 
-##**Project Deliverables:** 
+**##Project Deliverables:** 
 
 The project can be broken down into the following key deliverables, where each key deliverable consists of sub-deliverables: 
 - Digital storage medium interface 
@@ -24,7 +24,7 @@ The project can be broken down into the following key deliverables, where each k
 
 Together the deliverables meet the overall system implementation. Further detail into these deliverables can be found below.
 
-###**Digital storage medium interface:**
+**###Digital storage medium interface:**
 
 - *Hardware interface*, the appropriate hardware requirements for the communication protocol between the microprocessor and digital storage medium. E.g. operating voltage, physical connections between microprocessor and digital storage medium. 
  
