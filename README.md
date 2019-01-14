@@ -1,10 +1,10 @@
 # Graphics-Output-Device
 
-##**Project description:**
+**Project description:**
 
 The creation of a microprocessor (such as ARM, AVR, PIC, etc.)  controlled device capable of reading image files from a connected digital storage medium (such as SD card, Micro-SD card, Compact flash card, etc.) commonly implemented in digital cameras. The device should also allow, through a graphical user interface, the user to select and output specific image files to a monitor via a display interface (such as VGA, HDMI, Composite Video, etc). 
 
-**## Project Objectives:** 
+**Project Objectives:** 
 
 - The device will be capable of reading image files from a digital storage medium commonly implemented in digital cameras. 
 - The device will be able to output image files stored on the storage medium, through a standard display interface (such as VGA, HDMI, Composite Video, etc). 
@@ -12,7 +12,7 @@ The creation of a microprocessor (such as ARM, AVR, PIC, etc.)  controlled devic
 - The device will be portable and will not require an external power supply for operation.  
 
 
-**## Project Deliverables:** 
+** Project Deliverables:** 
 
 The project can be broken down into the following key deliverables, where each key deliverable consists of sub-deliverables: 
 - Digital storage medium interface 
@@ -24,7 +24,7 @@ The project can be broken down into the following key deliverables, where each k
 
 Together the deliverables meet the overall system implementation. Further detail into these deliverables can be found below.
 
-**### Digital storage medium interface:**
+**Digital storage medium interface:**
 
 - *Hardware interface*, the appropriate hardware requirements for the communication protocol between the microprocessor and digital storage medium. E.g. operating voltage, physical connections between microprocessor and digital storage medium. 
  
