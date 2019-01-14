@@ -108,12 +108,6 @@ int main(void)
     {
 
 			
-			//o_image_process.processImage();
-
-
-
-
-			
 		
 		
 			
